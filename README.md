@@ -5,6 +5,19 @@
 
 ---
 
+## How to install (super simple)
+
+1. Grab the `pooper-scooper.zip` file at the repo root
+2. Open Claude
+3. Go to **Settings → Plugins**
+4. Click **Add plugin → Upload from file**
+5. Drop in the zip you just downloaded
+6. Done! Type `/yard-quote-estimator` (or any skill name) to use it
+
+> That's it — no GitHub account, no command line, no marketplace setup needed.
+
+---
+
 ## Sponsored by real scooper businesses
 
 These skills are free because operators like you put their name on them.
@@ -69,24 +82,6 @@ When you use AI to help run your business, it starts out knowing nothing about t
 **Skills fix that.** A skill is a plain text file your AI uses to learn one part of your business. Think of it like handing your AI a one-page training doc before asking it a question. Once it has the skill loaded, it gives you answers that actually make sense for your industry instead of generic advice.
 
 This library is a collection of those training docs — written and shared for free by scooper business owners.
-
----
-
-## How to install
-
-The easiest way to get all of these skills at once is to install the marketplace plugin in Claude.
-
-1. Open Claude
-2. Go to **Settings**
-3. Open **Plugins**
-4. Click **Add plugin**
-5. Choose **Add marketplace**
-6. Paste this URL: `https://github.com/maptheday/pooper-scooper`
-7. Wait for the marketplace to load
-
-Once installed, use the plugin or slash commands like `/yard-quote-estimator` to call up any skill by name.
-
-> Tip: Installing the marketplace keeps all skills in one place and makes it easy to update later.
 
 ---
 
