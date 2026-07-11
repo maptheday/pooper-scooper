@@ -3,21 +3,6 @@
 > Free instructions that make AI smarter for your scooping business.
 > Written by operators, for operators.
 
----
-
-## How to install (super simple)
-
-1. Grab the `pooper-scooper.zip` file at the repo root
-2. Open Claude
-3. Go to **Settings → Plugins**
-4. Click **Add plugin → Upload from file**
-5. Drop in the zip you just downloaded
-6. Done! Type `/yard-quote-estimator` (or any skill name) to use it
-
-> That's it — no GitHub account, no command line, no marketplace setup needed.
-
----
-
 ## Sponsored by real scooper businesses
 
 These skills are free because operators like you put their name on them.
@@ -28,6 +13,17 @@ These skills are free because operators like you put their name on them.
 | ○ All other skills | *Available to sponsor — [claim yours](mailto:mapthedayapp@gmail.com)* |
 
 **Want your name on a skill?** Sponsorship is how you shape the phrasing, pricing approach, and local style so these guides match how you actually run your route. Email **mapthedayapp@gmail.com** to claim one.
+
+---
+
+## How to install (super simple)
+
+1. Grab the `pooper-scooper.zip` file at the repo root
+2. Open Claude
+3. Go to **Settings → Plugins**
+4. Click **Add plugin → Upload from file**
+5. Drop in the zip you just downloaded
+6. Done! Type `/yard-quote-estimator` (or any skill name) to use it
 
 ---
 
