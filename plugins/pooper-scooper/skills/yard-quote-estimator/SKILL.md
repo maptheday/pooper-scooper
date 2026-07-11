@@ -57,7 +57,7 @@ Multiply the base time by the yard size:
 
 | Yard size | Multiplier |
 |-----------|------------|
-| Small (townhouse / patio) | 0.75x |
+| Small (townhouse / patio) | 1.0x |
 | Medium (standard suburban) | 1.0x |
 | Large (½ acre or more) | 1.5x |
 | Very large / rural | 2.0x+ |
