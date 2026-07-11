@@ -1,0 +1,21 @@
+{
+  "name": "pooper-scooper",
+  "description": "A marketplace of Claude skills for pooper scooper operators.",
+  "owner": {
+    "name": "Map the Day",
+    "email": "mapthedayapp@gmail.com"
+  },
+  "version": "1.0.1",
+  "plugins": [
+    {
+      "name": "pooper-scooper",
+      "description": "A curated library of Claude skills for pooper scooper operators.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/maptheday/pooper-scooper.git",
+        "path": "plugins/pooper-scooper",
+        "ref": "main"      
+      }
+    }
+  ]
+}
